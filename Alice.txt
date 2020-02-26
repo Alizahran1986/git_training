@@ -1,2 +1,2 @@
-Hi! I'm Alice. I'm a file someone added to this repository a while ago. commit for rebase master
+Hi! I'm Alice. I'm a file someone added to this repository a while ago. commit for rebase master merged
 I'm Ali
